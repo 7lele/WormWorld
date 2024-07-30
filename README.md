@@ -1,2 +1,2 @@
-# WormWorld
+# The wonderfull WormWorld
 Community game
